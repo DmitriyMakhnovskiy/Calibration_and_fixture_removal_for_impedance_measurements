@@ -10,8 +10,6 @@
 # DYK team: http://dykteam.com/
 #
 
-# fff
-
 import numpy as np
 from Acquisition import acq
 from PhaseUnwrapping import unwrap
