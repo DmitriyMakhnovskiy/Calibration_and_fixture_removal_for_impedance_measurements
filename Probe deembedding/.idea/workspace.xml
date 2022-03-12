@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e71321b-0fcd-4612-b345-768cde5c3407" name="Changes" comment="">
+    <list default="true" id="0e71321b-0fcd-4612-b345-768cde5c3407" name="Changes" comment="Report removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report_SOLT calibration of VNA and fixture removal.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1646933576583</updated>
     </task>
+    <task id="LOCAL-00001" summary="Report removed">
+      <created>1646941747108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646941747108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Report removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Report removed" />
   </component>
 </project>
