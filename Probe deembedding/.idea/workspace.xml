@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e71321b-0fcd-4612-b345-768cde5c3407" name="Changes" comment="Merge remote-tracking branch 'origin/Delay_time' into Delay_time">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogBonePCB_10.03.2022/DogBonePCB_LOAD.s2p" beforeDir="false" afterPath="$PROJECT_DIR$/DogBonePCB_10.03.2022/DogBonePCB_LOAD.s2p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogBonePCB_10.03.2022/DogBonePCB_OPEN.s2p" beforeDir="false" afterPath="$PROJECT_DIR$/DogBonePCB_10.03.2022/DogBonePCB_OPEN.s2p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogBonePCB_10.03.2022/DogBonePCB_SHORT.s2p" beforeDir="false" afterPath="$PROJECT_DIR$/DogBonePCB_10.03.2022/DogBonePCB_SHORT.s2p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StraightPCB_10.03.2022/StraightPCB_LOAD.s2p" beforeDir="false" afterPath="$PROJECT_DIR$/StraightPCB_10.03.2022/StraightPCB_LOAD.s2p" afterDir="false" />
-    </list>
+    <list default="true" id="0e71321b-0fcd-4612-b345-768cde5c3407" name="Changes" comment="Merge remote-tracking branch 'origin/Delay_time' into Delay_time" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647043961102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/Delay_time' into Delay_time">
+      <created>1647050985265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647050985265</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/Delay_time' into Delay_time">
+      <created>1647051039800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647051039800</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
